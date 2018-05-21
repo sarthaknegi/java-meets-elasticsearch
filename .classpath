@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/slf4j-1.7.25/slf4j-1.7.25/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/slf4j-1.7.25/slf4j-1.7.25/jcl-over-slf4j-1.7.25-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/slf4j-1.7.25/slf4j-1.7.25/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/slf4j-1.7.25/slf4j-1.7.25/jul-to-slf4j-1.7.25-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/slf4j-1.7.25/slf4j-1.7.25/log4j-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/slf4j-1.7.25/slf4j-1.7.25/log4j-over-slf4j-1.7.25-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/slf4j-1.7.25/slf4j-1.7.25/osgi-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/slf4j-1.7.25/slf4j-1.7.25/osgi-over-slf4j-1.7.25-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/slf4j-1.7.25/slf4j-1.7.25/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/slf4j-1.7.25/slf4j-1.7.25/slf4j-api-1.7.25-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/slf4j-1.7.25/slf4j-1.7.25/slf4j-ext-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/slf4j-1.7.25/slf4j-1.7.25/slf4j-ext-1.7.25-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/slf4j-1.7.25/slf4j-1.7.25/slf4j-migrator-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-1.2-api-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-1.2-api-2.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-1.2-api-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-api-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-api-2.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-api-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-api-scala_2.10-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-api-scala_2.10-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-api-scala_2.11-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-api-scala_2.11-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-core-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-core-2.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-core-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-core-2.8.2-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-flume-ng-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-flume-ng-2.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-flume-ng-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-iostreams-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-iostreams-2.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-iostreams-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-jcl-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-jcl-2.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-jcl-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-jmx-gui-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-jmx-gui-2.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-jmx-gui-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-jul-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-jul-2.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-jul-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-nosql-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-nosql-2.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-nosql-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-taglib-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-taglib-2.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-taglib-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-to-slf4j-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-to-slf4j-2.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-to-slf4j-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-web-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-web-2.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-web-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/java-json.jar/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/commons-lang3-3.5-bin/commons-lang3-3.5/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/commons-lang3-3.5-bin/commons-lang3-3.5/commons-lang3-3.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/commons-beanutils-1.9.3-bin (1)/commons-beanutils-1.9.3/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/commons-collections4-4.1-bin/commons-collections4-4.1/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jitu/Downloads/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
