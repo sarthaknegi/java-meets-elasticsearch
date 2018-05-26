@@ -7,8 +7,8 @@
 <body>
 <h3>This project aims to integrate elastic search with java </h3>
 <br>
-<br>
 <h4>Aim : Pushing user data to elastic search and runnig some analysis on the data.  </h4>
+<br>
 <img src="manpowerCity.png">
 <img src="manpowerProperty.png">
 <img src="stateCity.png">
